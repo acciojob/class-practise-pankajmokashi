@@ -1,5 +1,9 @@
 /*  your css code here. If applicable */
-.c1 , .c3{
+.c1{
+	color: #00f;
+	background-color: #eee;
+}
+.c3{
 	color: #00f;
 	background-color: #eee;
 }
